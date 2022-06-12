@@ -1,0 +1,6 @@
+body {background-color: cadetblue;}
+h1   {color: blue;  font-size: 300%;}
+p    {color: black; font-size: 120%;}
+table {width:100% }
+.h1-head    {color: blue;text-align: center;}
+.h3-head    {color: blue;text-align: center; border-bottom: 2px solid powderblue; }
